@@ -1,5 +1,6 @@
 # final-project
 this is my final FRT project
+<h1>ENT PORTAL</h1>
 I created this website using HTML,CSS
 This website is about ENT Portal where we can fill our details and book an appointment with an ENT specialist doctor.
 This is a very user friendly webiste where the patient just required to fill the details and their problems and symptoms.
